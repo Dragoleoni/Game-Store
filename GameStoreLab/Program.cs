@@ -5,7 +5,6 @@ using GameStoreLab.Infrastructure.Helpers;
 using GameStoreLab.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
-// using Microsoft.EntityFrameworkCore;
 using System.Text.Json;
 
 namespace GameStoreLab
